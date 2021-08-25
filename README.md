@@ -2,6 +2,7 @@
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/saksham2105/WatchDog/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)]()
 
+[![IMAGE ALT TEXT HERE](https://github.com/saksham2105/WatchDog/blob/master/icon.jpg)]
 
 ----
 #### About
