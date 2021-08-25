@@ -2,7 +2,6 @@
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/saksham2105/WatchDog/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)]()
 
-<img src="https://github.com/saksham2105/WatchDog/blob/master/My%20Post.png" width="1200" height="600">
 
 ----
 #### About
@@ -36,3 +35,6 @@ copy extension.ts from this repository<br/>
 
 ## Tools and Technologies Used 
 ![](https://img.shields.io/badge/TypeScript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-yellow) 
+
+[Demo](https://www.youtube.com/watch?v=3gGhoZwYicg)
+
