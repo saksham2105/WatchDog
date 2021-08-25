@@ -32,17 +32,12 @@ export function activate(context: vscode.ExtensionContext)
 	fs.watchFile(currentlyOpenTabfilePath,(curr,prev)=>
 	{
 	 vscode.window.showInformationMessage('File Changed');
-	 if(panel)
-	 {
-		panel.dispose(); 
-	 }
-	 panel = vscode.window.createWebviewPanel(
-		'liveServer',
-		'Live Server',
-		vscode.ViewColumn.One,
-	 {});
 	 panel.webview.html = getWebviewContent();
-    });
+	 let onSuccess=()=>{};
+	 let onError=(err:any)=>{
+      console.log(err);
+	 };
+	 });
 	});
 	context.subscriptions.push(disposable);
 }
