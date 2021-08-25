@@ -30,6 +30,8 @@ copy extension.ts from this repository<br/>
 ## Features 📋
 * User can Observe Changes happened in their Current working File
 * A notification will appear on the bottom if some modification will takes place in current working File
+* User doesn't need to reload browser to see changes occured in html code preview
+* This extension will provide the facility to see live changes in preview of any webpage ui
 ---
 
 ## Tools and Technologies Used 
