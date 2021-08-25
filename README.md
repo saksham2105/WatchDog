@@ -6,7 +6,7 @@
 
 ----
 #### About
-WatchDog is a Visual Studio Code Extension to Observe Changes Happened in a File
+WatchDog is a Visual Studio Code Extension to Observe and see Changes Happened in a File
 
 #### Clone
 
